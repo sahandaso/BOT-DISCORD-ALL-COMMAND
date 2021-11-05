@@ -21,4 +21,4 @@ A Discord Moderation Bot With Different Features, mostly made for Moderating a D
 
 Support Server [For any Help]
 -
- https://discord.gg/btngw4vaTM
+ https://discord.gg/WwxhA98DPx
